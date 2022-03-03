@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LightNickCZ
 - 👀 I’m interested in Gaming, JavaScript, Tech
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, HTML
 - 📫 How to reach me: my Discord: _lightnick_#0001 or my email nickpvp716@gmail.com
 
 <!---
