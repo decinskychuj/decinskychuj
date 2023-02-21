@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LightNickCZ
 - 👀 I’m interested in Gaming, JavaScript, Tech, Anime, Linux
 - 🌱 I’m currently learning JavaScript, HTML
-- 📫 How to reach me: my Discord: _lightnick_#6969 or my email owner@lightnick.pl
+- 📫 How to reach me: my Discord: _lightnick_#0800 or my email owner@lightnick.pl
 
 <!---
 LightNickCZ/LightNickCZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
