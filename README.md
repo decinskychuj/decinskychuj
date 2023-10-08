@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @transfemjane
 - 👀 I’m interested in Gaming, JavaScript, Tech, Anime, Linux
 - 🌱 I’m currently learning Qt stuff
-- 📫 How to reach me: my Discord: @_lightnick_ or my email nickiejepepega@icloud.com
+- 📫 How to reach me: my Discord: @decinskychuj or my email nickiejepepega@icloud.com
